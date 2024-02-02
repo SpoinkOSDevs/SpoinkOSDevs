@@ -16,11 +16,8 @@ Discover SpoinkOS, a space where precision meets innovation.
 
 Connect with me for discussions on technology, development methodologies, and more:
 
-- Email: SpoinkOSGithub@gmail.com
+- Email: mailto:SpoinkOSGithub@gmail.com
 
 #### Let's Collaborate on Excellence
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
-
-Best regards,
-Carl
