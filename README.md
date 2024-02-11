@@ -12,12 +12,6 @@ Discover SpoinkOS, a space where precision meets innovation.
 - **Mission:** Crafting intuitive and efficient operating systems for enhanced user experiences.
 - **Development:** Committed to translating conceptual aspirations into tangible, functional realities.
   
-#### Get in Touch
-
-Connect with me for discussions on technology, development methodologies, and more:
-
-- Email: mailto:SpoinkOSGithub@gmail.com
-
 #### Let's Collaborate on Excellence
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
