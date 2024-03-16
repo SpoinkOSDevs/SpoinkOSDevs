@@ -20,5 +20,6 @@ Join me on this professional expedition, where coding prowess converges with inn
 
 🔗 Connect with me on [Twitter](https://twitter.com/SpoinkOSDevs) for the latest updates and discussions.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs) ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs)
 
+[![Repo Stats](https://img.shields.io/badge/dynamic/json?label=Repo%20Stats&query=%24.total&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2F%3Fuser%3DSpoinkOSDevs%26repo%3Dspoinkos)](https://github.com/SpoinkOSDevs/SpoinkOS)
