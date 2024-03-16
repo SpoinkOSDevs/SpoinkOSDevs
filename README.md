@@ -20,7 +20,7 @@ Join me on this professional expedition, where coding prowess converges with inn
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)]() ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)]() ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 [![GitHub stars](https://img.shields.io/github/stars/SpoinkOSDevs/SpoinkOS?style=social)]() [![GitHub forks](https://img.shields.io/github/forks/SpoinkOSDevs/SpoinkOS?style=social)]()
 
