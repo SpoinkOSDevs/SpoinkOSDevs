@@ -9,7 +9,7 @@ I'm known as @SpoinkOSDevs, the mind behind SpoinkOS.
 
 Discover SpoinkOS, a space where precision meets innovation.
 
-- **Mission:** Crafting intuitive and efficient operating systems for enhanced user experiences.
+- **Mission:** Building SpoinkOS for enhanced server admin experiences.
 - **Development:** Committed to translating conceptual aspirations into tangible, functional realities.
   
 #### Let's Collaborate on Excellence
