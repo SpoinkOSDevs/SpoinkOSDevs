@@ -18,10 +18,11 @@ Discover SpoinkOS, a space where precision meets innovation.
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
 
-🔗 Connect with me on [Twitter](https://twitter.com/SpoinkOSDevs) for the latest updates and discussions.
+[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)]() ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)]() ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-[![Repo Stats](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/SpoinkOSDevs/your_github_username/raw/SpoinkOS/repo-stats.json)](https://github.com/SpoinkOSDevs/SpoinkOS)
+[![GitHub stars](https://img.shields.io/github/stars/SpoinkOSDevs/SpoinkOS?style=social)]() [![GitHub forks](https://img.shields.io/github/forks/SpoinkOSDevs/SpoinkOS?style=social)]()
 
-![Language Stats](https://github.com/SpoinkOSDevs/SpoinkOS/blob/master/languages.svg)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![GitHub issues](https://img.shields.io/github/issues/SpoinkOSDevs/SpoinkOS)](https://github.com/SpoinkOSDevs/SpoinkOS/issues)
+
