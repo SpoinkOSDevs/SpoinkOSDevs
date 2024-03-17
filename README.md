@@ -18,7 +18,7 @@ Discover SpoinkOS, a space where precision meets innovation.
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)]() ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs) ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
