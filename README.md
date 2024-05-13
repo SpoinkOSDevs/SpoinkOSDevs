@@ -26,3 +26,4 @@ Join me on this professional expedition, where coding prowess converges with inn
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![GitHub issues](https://img.shields.io/github/issues/SpoinkOSDevs/SpoinkOS)](https://github.com/SpoinkOSDevs/SpoinkOS/issues)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=midnight-purple&show_icons=true)
