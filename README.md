@@ -19,6 +19,8 @@ Discover SpoinkOS, a space where precision meets innovation.
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
 
 [![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs)
+
+
 ![SpoinkOSDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=midnight-purple&show_icons=true)
 
 ## Star History
