@@ -18,14 +18,7 @@ Discover SpoinkOS, a space where precision meets innovation.
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs) ![GitHub followers](https://img.shields.io/github/followers/SpoinkOSDevs?style=social)
-
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-
-[![GitHub stars](https://img.shields.io/github/stars/SpoinkOSDevs/SpoinkOS?style=social)]() [![GitHub forks](https://img.shields.io/github/forks/SpoinkOSDevs/SpoinkOS?style=social)]()
-
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![GitHub issues](https://img.shields.io/github/issues/SpoinkOSDevs/SpoinkOS)](https://github.com/SpoinkOSDevs/SpoinkOS/issues)
-
+[![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs)
 ![SpoinkOSDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=midnight-purple&show_icons=true)
 
 ## Star History
