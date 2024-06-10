@@ -1,6 +1,6 @@
-# Welcome to SpoinkOS Development 🚀
+# Welcome to SpoinkOS Innovations.
 
-Hey there! I'm **@SpoinkOSDevs**, the mind behind SpoinkOS.
+Hello, I'm **@SpoinkOSDevs**, the creator of SpoinkOS.
 
 ## Brief Introduction
 
@@ -18,7 +18,7 @@ Discover SpoinkOS, a space where precision meets innovation.
 
 Join me on this professional expedition, where coding prowess converges with innovation to shape the future of SpoinkOS.
 
-[![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://twitter.com/SpoinkOSDevs)
+[![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://x.com/SpoinkOSDevs)
 
 
 ![SpoinkOSDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=midnight-purple&show_icons=true)
