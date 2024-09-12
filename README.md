@@ -22,3 +22,5 @@ Join me on this professional expedition, where coding prowess converges with inn
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=outrun&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpoinkOSDevs)](https://spoink.pages.dev)
