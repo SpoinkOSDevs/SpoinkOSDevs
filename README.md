@@ -21,4 +21,4 @@ Join me on this professional expedition, where coding prowess converges with inn
 [![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://x.com/SpoinkOSDevs)
 
 
-![SpoinkOSDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=outrun&show_icons=true)
