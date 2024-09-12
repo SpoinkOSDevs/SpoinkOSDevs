@@ -1,6 +1,6 @@
 # Welcome to SpoinkOS Innovations.
 
-Hello, I'm **@SpoinkOSDevs**, the creator of SpoinkOS.
+Hello, I'm **@SpoinkOSDevs**. But you can call me Chris! I am the creator of SpoinkOS.
 
 ## Brief Introduction
 
@@ -21,4 +21,4 @@ Join me on this professional expedition, where coding prowess converges with inn
 [![Twitter/X Follow](https://img.shields.io/twitter/follow/SpoinkOSDevs?style=social)](https://x.com/SpoinkOSDevs)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=outrun&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpoinkOSDevs&theme=outrun&show_icons=true)
